@@ -20,10 +20,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/jWwHxcf.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
+<img src='https://imgur.com/6npzlxJ.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
+GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -40,6 +41,8 @@ Here are some of my favorite applications:
 - Youtube:
     - Interactive subcription button that allows you to keep up with your favorite creators
     - Various playback speed and captions implemented
+
+ I want to create a Tinder replica app that allows University students to interact with each other. Instead of focusing on the romantic aspect, I want to implement components of LinkedIn and Bumble to allow students to build connections and make friends on campus. I want their profile to include their major, interests, current goals and etc.
 ## Notes
 
 - First time with Swift, struggled between connecting button to logic in the beginning.
