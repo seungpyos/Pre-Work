@@ -20,10 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/jWwHxcf.gif)
-![](https://imgur.com/6npzlxJ.gif) 
-![](https://imgur.com/vuuwb3N.gif)
-![](https://imgur.com/Fc3LVHC.gif)
+![](https://imgur.com/a/KlGvFjc.gif)
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
