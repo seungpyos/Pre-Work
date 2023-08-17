@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a [walkthrough](https://imgur.com/a/KlGvFjc.gif) of implemented user stories
+Here's a walkthrough of implemented user stories:
 <img src='https://github.com/seungpyos/Pre-Work/blob/main/step1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
