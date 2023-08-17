@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a [walkthrough](https://imgur.com/a/KlGvFjc.gif) of implemented user stories
 ![](https://github.com/seungpyos/Pre-Work/blob/main/step1.gif)
-
+<img src='https://github.com/seungpyos/Pre-Work/blob/main/step1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
