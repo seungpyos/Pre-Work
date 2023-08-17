@@ -19,10 +19,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a [walkthrough](https://imgur.com/a/KlGvFjc.gif) of implemented user stories
-![](https://imgur.com/jWwHxcf.gif)
-![](https://imgur.com/6npzlxJ.gif)
-![](https://imgur.com/vuuwb3N.gif)
-![](https://imgur.com/Fc3LVHC.gif)
+![](https://github.com/seungpyos/Pre-Work/blob/main/step1.gif)
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
