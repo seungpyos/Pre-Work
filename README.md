@@ -18,9 +18,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-[Imgur](https://imgur.com/a/KlGvFjc.gif)
+Here's a [walkthrough](https://imgur.com/a/KlGvFjc.gif) of implemented user stories
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
