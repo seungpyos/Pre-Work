@@ -20,6 +20,9 @@ The following **required** functionality is completed:
 
 Here's a [walkthrough](https://imgur.com/a/KlGvFjc.gif) of implemented user stories
 ![](https://imgur.com/jWwHxcf.gif)
+![](https://imgur.com/6npzlxJ.gif)
+![](https://imgur.com/vuuwb3N.gif)
+![](https://imgur.com/Fc3LVHC.gif)
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
