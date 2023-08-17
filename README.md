@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a [walkthrough](https://imgur.com/a/KlGvFjc.gif) of implemented user stories
+![](https://imgur.com/jWwHxcf.gif)
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
