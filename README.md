@@ -20,8 +20,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=![](https://imgur.com/jWwHxcf.gif) title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
-<img src=![](https://imgur.com/6npzlxJ.gif) title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
+![](https://imgur.com/jWwHxcf.gif)
+![](https://imgur.com/6npzlxJ.gif) 
+![](https://imgur.com/vuuwb3N.gif)
+![](https://imgur.com/Fc3LVHC.gif)
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
