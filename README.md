@@ -19,7 +19,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://github.com/seungpyos/Pre-Work/blob/main/step1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/seungpyos/Pre-Work/blob/main/step1.gif' title='Video Walkthrough1' width='' alt='Video Walkthrough1' />
+<img src='https://github.com/seungpyos/Pre-Work/blob/main/step2%20(1).gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
+<img src='https://github.com/seungpyos/Pre-Work/blob/main/step3%20(1).gif' title='Video Walkthrough3' width='' alt='Video Walkthrough3' />
+<img src='https://github.com/seungpyos/Pre-Work/blob/main/step4%20(2).gif' title='Video Walkthrough4' width='' alt='Video Walkthrough4' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
